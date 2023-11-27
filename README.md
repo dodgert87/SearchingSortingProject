@@ -18,7 +18,7 @@ This project provides a console-based program for various sorting and searching 
 4. Run it.
       java Main
 
-### Sorting and Searching Options:
+## Sorting and Searching Options:
 
     1. Linear Searching: Search for a value in a list using the linear search algorithm.
 
@@ -30,6 +30,6 @@ This project provides a console-based program for various sorting and searching 
 
     5. Sorting Performance: Evaluate and compare the performance of sorting algorithms on datasets of various sizes.
 
-#### Author:
+## Author:
 
 --Abdenour Abdelaziz--
