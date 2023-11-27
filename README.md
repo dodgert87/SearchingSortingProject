@@ -13,11 +13,10 @@ This project provides a console-based program for various sorting and searching 
 2. cd your-repository:
 
 3. Build the project:
-   
-   javac Main.java
+      javac Main.java
 
 4. Run it.
-   java Main
+      java Main
 
 ### Sorting and Searching Options:
 
